@@ -1,4 +1,4 @@
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors) [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0) [![Code Of Conduct](https://img.shields.io/badge/code--of--conduct-Moja%20Global-blue)](https://github.com/moja-global/About_moja_global/blob/master/CODE_OF_CONDUCT.md) [![Contributions](https://img.shields.io/badge/newcomer-friendly-red)](https://github.com/moja-global/About_moja_global/blob/master/CONTRIBUTING.md) [![Chat on Slack](https://img.shields.io/badge/chat-slack-blueviolet)](https://mojaglobal.slack.com/) [![Twitter Handle](https://img.shields.io/badge/twitter-Moja%20Global-darkblue)](https://twitter.com/mojaglobal?lang=en)
 
 # moja global   
 This repo provides information about the organisation moja global and its tools. You can find out who we are, what we do and most importantly, how we work and how you can contribute.  
