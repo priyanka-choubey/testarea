@@ -16,7 +16,20 @@ Before asking any questions, please have a look at our [FAQs](https://github.com
 
 If your question concerns the code of a project, then you should create a [new issue] in the relevant project's repository.
 
-You can also [join moja global](Contributing/How-to-Join-moja-global.md) and then ask your question(s) in the relevant channel of our private [Slack workspace](https://mojaglobal.slack.com/).
+You can also [join moja global](Contributing/How-to-Join-moja-global.md) and then ask your question(s) in the relevant channel of our private [Slack workspace](https://mojaglobal.slack.com/).  
+
+## How to setup the Project using Git and Github?  
+
+Please follow the following Git/Github workflow to setup this project:  
+* Fork this repo from https://github.com/moja-global/testarea/ .In the upper left corner there is Fork button. A “copy” of the project will appear in the list of your repositories.
+* In the terminal screen, clone this repo by running the command `git clone https://github.com/<your-username>/testarea/` where `your-username` represents your Github username.
+* Enter into the newly created project folder by running the command `cd testarea`
+* Configure upstream for the fork so that git can sync work from the upstream if it is updated by running the command `git remote add upstream https://github.com/moja-global/testarea/`
+* Check if upstream is configured by running the command `git remote -v` and check if upstream is shown or not.
+* Now, the project is setup and ready to go! Since this is only a read-only documentation based repository, you don't need to setup any additional technologies. Make a contribution by editing the relevant files and opening a pull request into the `master` branch of this repository.
+
+
+
 
 
 ## How To Get Credit for Your Contribution?
